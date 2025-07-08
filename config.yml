@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: সাধারণ প্রশ্ন
+    url: https://github.com/rimani-sudo/bangla-voice-to-text/discussions
+    about: যদি এটি বাগ বা ফিচার রিকোয়েস্ট না হয়, তাহলে এখানে প্রশ্ন করুন।
